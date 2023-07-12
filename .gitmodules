@@ -1,0 +1,3 @@
+[submodule "eye-web"]
+	path = eye-web
+	url = https://github.com/Salenzo/EYE-web.git
